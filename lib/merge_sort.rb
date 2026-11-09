@@ -35,3 +35,5 @@ def divide_point(array)
   (array.size / 2.0).ceil
 end
 
+example_array = [3, 5, 6, 2, 100]
+p merge_sort(example_array)
